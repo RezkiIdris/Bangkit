@@ -1,2 +1,0 @@
-# Bangkit
-kampus merdeka
